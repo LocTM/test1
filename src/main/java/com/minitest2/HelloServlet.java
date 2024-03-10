@@ -1,4 +1,4 @@
-package com.minitest2.demo;
+package com.minitest2;
 
 import java.io.*;
 import javax.servlet.http.*;
